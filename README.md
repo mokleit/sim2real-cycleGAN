@@ -17,4 +17,8 @@ Training is completed by running **CycleGAN_Pytorch** notebook in [**PROJECT FOL
 
 In order to test the model, we use the same notebook as for training (we run the last cell). Before doing so, we need to execute a few steps as mentioned in the notebook training part. The test results can be found under the following path: **pytorch-CycleGAN-and-pix2pix/results/sim2real/test_latest/images**
 
+# RESULTS
+
+See the pdf **Final Report** under report folder.
+
 
