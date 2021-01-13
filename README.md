@@ -19,6 +19,6 @@ In order to test the model, we use the same notebook as for training (we run the
 
 # Results
 
-See the pdf [**Final Report**](report/Final Report.md) under report folder.
+See the pdf [Final Report](report/Final Report.md) under report folder.
 
 
